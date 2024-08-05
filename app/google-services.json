@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121784051825",
+    "project_id": "pledge-planet",
+    "storage_bucket": "pledge-planet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121784051825:android:006a69e3352965144c53d0",
+        "android_client_info": {
+          "package_name": "com.example.pledgeplanet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcJYsAzWLCfREDUiByUIGpQukKk_TO8Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
